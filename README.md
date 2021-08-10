@@ -9,7 +9,7 @@ var info = new {
 	gender = "male",
 	occupation = "secondary school student",
 	hobbies = new string[4] { "coding", "watching Boruto", "learning English", "sleep" },
-	knowledge = new string[6] { "english", "csharp", "css", "js", "bash", "git" },
+	knowledge = new string[] { "english", "csharp", "css", "js", "bash", "git" },
 	email = "admin@xwork.space"
 };
 ```
