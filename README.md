@@ -1,7 +1,18 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24&fontColor=fff)](#)
 [![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=AlphaNecron.AlphaNecron&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
-#### Hello everyone. I'm Nguyen Thanh Quang, a secondary school student, you can either call me AlphaNecron, Andev or Quang. I'm 14 years old. I loves coding stuff, especially FOSS, you can check out stuff i've made here: [AlphaNecron](https://github.com/AlphaNecron). If you have any questions, just send me a email: [admin@xwork.space](mailto:admin@xwork.space). Have a good day!
+```csharp
+var info = new {
+	fullName = "Nguyen Thanh Quang",
+	nickname = "AlphaNecron",
+	age = 14,
+	gender = "male",
+	occupation = "secondary school student",
+	hobbies = new string[4] { "coding", "watching Boruto", "learning English", "sleep" },
+	knowledge = new string[6] { "english", "csharp", "css", "js", "bash", "git" },
+	email = "admin@xwork.space"
+};
+```
 
 ## Stats 📈
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
