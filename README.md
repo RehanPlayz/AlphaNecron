@@ -10,6 +10,7 @@ var info = new {
 	occupation = "secondary school student",
 	hobbies = new string[4] { "coding", "watching Boruto", "learning English", "sleep" },
 	skills = new string[] { "english", "csharp", "css", "js", "bash", "git" },
+	learning = new string[] { "reactjs", "cpp", "nextjs", "python" },
 	email = "admin@xwork.space"
 };
 ```
@@ -19,9 +20,6 @@ var info = new {
 
 ## Streak 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
-
-## Wakatime 🕒
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaNecron&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](#)
 
 ## Most used languages 🌐
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&hide_border=true&layout=compact&hide=shell,python)](#)
