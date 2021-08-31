@@ -15,6 +15,9 @@ var info = new {
 };
 ```
 
+<details>
+  <summary>More</summary>
+	
 ## Stats 📈
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
 
@@ -60,3 +63,4 @@ var info = new {
 [![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Kutt.NET)
 [![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)](#)
+</details>
