@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24&fontColor=fff)](#)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=25&section=header&fontAlign=36&animation=twinkling&text=A%20passionate%20C%23%20and%20ReactJS%20developer%20from%20Viet%20Nam&fontSize=24&fontColor=fff)](#)
 [![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=AlphaNecron.AlphaNecron&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
 ```csharp
@@ -63,5 +63,4 @@ var info = new {
 [![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/lightdm-gab-nord)
 [![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Kutt.NET)
 [![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)](#)
 </details>
